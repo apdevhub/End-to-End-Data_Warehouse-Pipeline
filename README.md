@@ -64,4 +64,4 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 └── .gitignore                          # Files and directories to be ignored by Git
----
+```
